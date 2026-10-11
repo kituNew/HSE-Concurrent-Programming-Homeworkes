@@ -1,0 +1,1 @@
+rootProject.name = "hse-concurrent-programming-hw1"
